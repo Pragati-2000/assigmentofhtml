@@ -12,9 +12,11 @@
 	
 <link rel="stylesheet" type="text/css" href="css/styles.css">
 	
-<title>Module 2 Solution</title>
+
 
 </head>
+
+<title>Module 2 Solution</title>
 
 <body>
 	
