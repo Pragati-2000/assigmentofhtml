@@ -16,8 +16,6 @@
 
 </head>
 
-<title>Module 2 Solution</title>
-
 <body>
 	
 <h1>Our Menu</h1>
